@@ -1,1 +1,2 @@
-# agu
+＃！/ bin / bash
+sl -a
